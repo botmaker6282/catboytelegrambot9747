@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/DalinMathew/AutoFilterBotV3",
-    "repository": "https://github.com/DalinMathew/AutoFilterBotV3",
+    "website": "https://github.com/botmaker6282/catboytelegrambot9747",
+    "repository": "https://github.com/botmaker6282/catboytelegrambot9747",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
